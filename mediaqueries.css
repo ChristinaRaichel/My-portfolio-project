@@ -48,6 +48,10 @@
     .about-containers {
       margin-top: 0;
     }
+
+    #about {
+      padding-top: 20vh;
+    }
   }
   
   @media screen and (max-width: 600px) {
