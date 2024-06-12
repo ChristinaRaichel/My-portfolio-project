@@ -169,6 +169,7 @@
   
   #profile {
     display: flex;
+    padding-top: 14vh;
     justify-content: center;
     gap: 5rem;
     height: 80vh;
@@ -362,6 +363,7 @@
   /* PROJECTS SECTION */
   
   #projects {
+    padding-top: 20vh;
     position: relative;
     
   }
@@ -380,7 +382,6 @@
   .project-title {
     margin: 1rem;
     color: black;
-    position: relative;
   }
   
   .project-btn {
@@ -393,6 +394,7 @@
   #contact {
     display: flex;
     justify-content: center;
+    padding-top: 20vh;
     flex-direction: column;
     height: 70vh;
   }
