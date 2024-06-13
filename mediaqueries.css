@@ -10,8 +10,7 @@
     #projects {
       height: fit-content;
     }
-
-  
+ 
 
   }
   
@@ -30,6 +29,7 @@
     .section-container {
       display: block;
     }
+
     .arrow {
       display: none;
     }
@@ -72,7 +72,7 @@
     }
 
     #about {
-        padding-top: 30vh;
+        padding-top: 40vh;
     }
     .about-containers,
     .contact-info-upper-container,
