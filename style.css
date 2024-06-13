@@ -213,6 +213,7 @@
     gap: 1rem;
   }
   
+
   /* ICONS */
   
   .icon {
@@ -272,6 +273,7 @@
   
   #about {
     position: relative;
+    padding-top: 20vh;
   }
   
   .about-containers {
@@ -316,8 +318,8 @@
   }
   
   .section__pic-container {
-    height: 400px;
-    width: 400px;
+    height: 550;
+    width: 550;
     margin: auto 0;
   }
   

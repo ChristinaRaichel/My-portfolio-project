@@ -10,8 +10,7 @@
     #projects {
       height: fit-content;
     }
- 
-
+  
   }
   
   @media screen and (max-width: 1200px) {
@@ -29,6 +28,15 @@
     .section-container {
       display: block;
     }
+    #about {
+      padding-top: 45vh;
+    }
+
+    img.one {
+      width: 400px;
+      height: 400px;
+    }
+    
 
     .arrow {
       display: none;
@@ -49,9 +57,6 @@
       margin-top: 0;
     }
 
-    #about {
-      padding-top: 20vh;
-    }
   }
   
   @media screen and (max-width: 600px) {
@@ -70,9 +75,13 @@
       height: fit-content;
       margin-bottom: 2rem;
     }
-
+    img.one {
+      width: 300px;
+      height: 300px;
+    }
+    
     #about {
-        padding-top: 40vh;
+        padding-top: 45vh;
     }
     .about-containers,
     .contact-info-upper-container,
